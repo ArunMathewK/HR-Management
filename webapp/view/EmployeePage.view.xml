@@ -20,6 +20,8 @@
 					<m:Image height="24px" width="24px" src="./test-resources/sap/uxap/images/twitterIcon.png"/>
 					<m:Image height="24px" width="24px" src="./test-resources/sap/uxap/images/linkedInIcon.png"/>
 				</layout:HorizontalLayout>
+				
+				
 			</layout:VerticalLayout>
 			<m:Text width="200px" text="Hi, I'm {name}. I am passionate about what I do and I'll go the extra mile to make the customer win."/>
 			<layout:VerticalLayout>
